@@ -1,0 +1,2 @@
+# EEGminer
+EEGminer
